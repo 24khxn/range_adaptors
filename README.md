@@ -18,5 +18,6 @@ This project is way for me to familiarize myself with the iterator and ranges li
 - **Sheehan Khan**
 
 ## Acknowledgements
-Project idea pulled directly from Jonathan Boccara's [blog](https://www.fluentcpp.com/2017/06/23/7-ways-better-cpp-summer/), thank you!
+Project idea pulled directly from Jonathan Boccara's [blog](https://www.fluentcpp.com/2017/06/23/7-ways-better-cpp-summer/) ([GitHub](https://github.com/joboccara/ranges))
+
 
